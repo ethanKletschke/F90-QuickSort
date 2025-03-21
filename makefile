@@ -10,7 +10,7 @@ TARGET = quicksort
 .PHONY: all clean
 all: $(SRC) $(BIN_DIR) $(BIN_DIR)/$(TARGET)
 
-run:
+run: $(BIN_DIR)/$(TARGET).exe
 	./$(BIN_DIR)/$(TARGET)
 
 $(BIN_DIR)/$(TARGET): $(SRC)
