@@ -1,4 +1,4 @@
-program main
+program F90_Quicksort
     implicit none
 
     ! The array to sort.
@@ -90,4 +90,4 @@ contains
             call quick_sort(arr, pivot_index + 1, high)
         end if
     end subroutine quick_sort
-end program main
+end program F90_Quicksort
