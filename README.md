@@ -1,9 +1,14 @@
 # QuickSort in Fortran 90
 
 An implementation of the [QuickSort sorting algorithm](https://www.w3schools.com/dsa/dsa_algo_quicksort.php) in 
-[Fortran 90](https://en.wikipedia.org/wiki/Fortran#Evolution:~:text=a%20portable%20manner.-,Fortran%2090,-%5Bedit%20source).
+Fortran 90.
 
-## Sources
+- Author: Ethan Kletschke
+- Version: `2.0.0`
+- Developed on: Windows 11
+- License: MIT
+
+## Inspiration
 
 1. [W3Schools.com](https://www.w3schools.com/dsa/dsa_algo_quicksort.php#:~:text=code%20looks%20like-,this,-%3A) for the concept and the Python code I adapted from.
 
